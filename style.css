@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(to right,rgb(37, 241, 37),rgb(12, 184, 236));
+}
+.main{
+    background: rgb(247, 51, 158);
+    height: 370px;
+    margin:auto ;
+    margin-top: 5%;
+    width: 670px
+    
+    
+    
+}
+h1{
+    margin-top: 15%;
+    color: rgb(5, 102, 192);
+}
+h3{
+    color: white;
+}
+#gu{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#num{
+    height: 25px;
+    width: 200px;
+    margin-left: 10px;
+
+}
+.n1{
+    margin-top: 20px;
+    margin-left:170px;
+    height: 35px;
+}
+#res{
+    color: black;
+    background: red;
+    height: 35px;
+    width: 500px;
+    margin-left:110px ;
+    text-align: center;;
+}
+input[type="submit"]{
+    color: black;
+    background: green;
+    height: 35px;
+    width: 90px;
+    margin-left: 160px;
+    
+}
